@@ -2,6 +2,10 @@
 
 Projeto de um sensor de distância baseado no **ESP32** e no sensor ultrassônico **HC-SR04**. A distância medida é exibida em um display OLED, enquanto um buzzer emite alertas sonoros cada vez mais frequentes conforme um objeto se aproxima.
 
+## Fotos e vídeos
+
+Confira as imagens e os vídeos do projeto na [galeria do Google Drive](https://drive.google.com/drive/folders/1IvEZMgkQUVCArWNZnBFYBTteEKOOdIll).
+
 ## Funcionalidades
 
 - Mede distâncias com o sensor ultrassônico HC-SR04.
